@@ -1,0 +1,71 @@
+@font-face{
+	font-family: myFont;
+	src: url('./fonts/FontAwesome.otf');
+	font-weight: normal;
+	font-size: normal;
+}
+.type-12{
+	border: rgb(236,241,254) solid 2px;
+	margin: 10px;
+}
+.type-12 .box{
+	margin: 50px auto;
+	width: 300px;
+	height: 10px;
+}
+.type-12 .box{
+	border: rgb(20,155,194) solid 2px;
+	width: 300px;
+	 height: 80px;
+}
+.type-12 .box #search{
+	margin: 10px;
+	 width: 200px;
+	 height: 50px;
+	 background: #fff;
+	 border: rgb(135,206,235) solid 2px;
+	 font-size: 12pt;
+	 float: none;
+	 color: #000;
+	 padding-left: 15px;
+	 -webkit-border-radius: 10px;
+	 -moz-border-radius: 10px;
+	 border-radius: 10px;
+}
+.type-12 .box .icon{
+	 -webkit-border-radius: 10px;
+	 -moz-border-radius: 10px;
+	 border-radius: 10px;
+	 background: none;
+	 border: none;
+	 height: 50px;
+	 width: 50px;
+	 color: rgb(20,155,194);
+	 font-size: 20pt;
+}
+.type-12 .type
+{
+	font-family: myFont;
+	margin-left:60px;
+	margin-right: 60px;
+	text-align: center;
+	color: rgb(100,149,237);
+	font-size: 50px;
+	border-bottom: rgb(236,241,254) solid 2px;
+}
+.type-12 .class{
+	padding: 50px;
+	position: relative;
+	text-align: center;
+	padding-bottom: 10px;
+}
+.type-12 .tieude
+{
+	padding: 10px;
+	color: rgb(100,149,237);
+}
+.imgAlt{
+	width: 300px;
+	height: 300px;
+}
+@media(max-width: 992px);
